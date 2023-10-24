@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinayak-33 and I am an Android developer
 - 👀 I’m interested in enhancing my technical skills
-- 🌱 I’m currently learning different programming languages
+- 🌱 Programming languages- Java and Python
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me -
      email -vinayakhingrajiya@gmail.com
